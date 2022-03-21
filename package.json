@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://techpiyush2.github.io/myreactwebsite",
+  "homepage":"https://techpiyush2.github.io/mywebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
