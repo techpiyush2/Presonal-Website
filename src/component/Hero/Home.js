@@ -23,7 +23,7 @@ const Home = () => {
               </span>
             </h2>
 
-            <p>Experienced Web Developer adept in all stages
+            <p>Web Developer adept in all stages
               of advanced web development.
               Knowledgeable in user interface, testing, and
               debugging processes. Bringing forth expertise

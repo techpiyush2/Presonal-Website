@@ -1,5 +1,6 @@
 .features .box {
-  padding: 50px;
+  padding: 20px;
+  position: relative;
 }
 .features .box h2 {
   margin: 20px 0 20px 0;
@@ -20,4 +21,14 @@
 .features .box:hover i {
   color: white;
   opacity: 1;
+}
+/*------------popup--------*/
+@media (max-width: 768px) {
+
+  .features .box {
+    flex-direction: column;
+  }
+}
+.features .box{
+  margin-left: -21px;
 }

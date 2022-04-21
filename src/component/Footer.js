@@ -4,7 +4,13 @@ import logo1 from "./pic/f_logo.png"
 const Footer = () => {
   return (
     <>
-      <footer style={{backgroundColor: "#ff014f",marginBottom:0,color: "white",marginTop:15}}>
+      <footer style={{
+      backgroundColor: "#ff014f",
+      marginBottom:0,color: "white",
+      marginTop:15,
+      borderTopLeftRadius:"50%", 
+      borderTopRightRadius:"50%"
+    }}>
         <div className='conatiner text-center top'>
           <div className='img'>
             <img src={logo1} alt='' style={{ width : 200 , marginBottom:-20 , paddingTop:20}} />

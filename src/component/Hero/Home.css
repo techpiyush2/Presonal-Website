@@ -72,7 +72,7 @@
   .hero .right,
   .hero .left {
     width: 100%;
-    margin-left: 20px;
+    /* margin-left: 10px; */
   }
 
   .hero .f_flex {

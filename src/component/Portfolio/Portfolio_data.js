@@ -11,8 +11,8 @@ const Portfolio_data = [
     id: 2,
     category: "DEVELOPMENT",
     totalLike: "40",
-    title: "Meme Generator Website ",
-    image: "https://pbs.twimg.com/media/Erbs_ZOXAAAXSFK?format=jpg&name=900x900",
+    title: "Paasword Generator Website ",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaH9sPI86DdvEhb3CNtPN2sWDk1yFogOcMkCqRQrY_bSTxB2v9sTRO2kF_YeuHmJ-7MHk&usqp=CAU",
   },
   {
     id: 3,

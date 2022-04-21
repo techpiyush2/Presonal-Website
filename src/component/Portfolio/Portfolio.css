@@ -147,6 +147,7 @@ body.active-modal {
   }
   .modal .right,
   .modal .left {
-    padding: 0;
+    padding: 0%;
+    margin-left: 0%;
   }
 }
